@@ -1,8 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-const int MAX = 1000;
-int s[MAX];
+int s[5];
 int top = -1;
 int n;
 
