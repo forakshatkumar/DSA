@@ -20,7 +20,6 @@ void merging(int low, int mid, int high)
             b[i++] = a[l2++];
         }
     }
-
     while (l1 <= mid)
     {
         b[i++] = a[l1++];
